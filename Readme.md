@@ -8,7 +8,12 @@ The themes
 
 * Solarized Light & Dark: Both themes are based off the amazing work for the original [Vim Solarized theme] [solar]. Github user varikin took the Solarized palette and made the [Solarize Dark theme] [varikin] for Xcode 4. I forked his repository and added the Solarize Light theme as well. I'm including both in this repository, but both have been pushed back upstream to his repo.
 
+![Solarize Dark] [dark]
+![Solarize Light] [light]
+
 * Humane (modified): This theme was originally made for Xcode 4 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
+
+![Humane (Modified)] [humane_image]
 
 
 Installation
@@ -33,3 +38,6 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [humane]: http://damieng.com/blog/2008/02/08/humane-theme-for-textmate-and-xcode
    [solar]: http://ethanschoonover.com/solarized
    [varikin]: https://github.com/varikin/solarized/tree/master/xcode4-colors-solarized
+   [dark]: http://farm6.static.flickr.com/5062/5592270855_1b26fb726e_o.png  "Solarize Dark"
+   [light]: http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png  "Solarize Light"
+   [humane_image]: http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png  "Humane (Modified)"
