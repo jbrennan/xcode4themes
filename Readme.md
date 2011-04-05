@@ -7,9 +7,9 @@ The themes
 ----------
 
 * 	Solarized Light & Dark: Both themes are based off the amazing work for the original [Solarized theme] [solar]. Github user [varikin] [] took the Solarized palette and made the [Solarize Dark theme] [varikin] for Xcode 4. I forked his repository and added the Solarize Light theme as well. I'm including both in this repository, but both have been pushed back upstream to his repo.
-
-	![Solarize Dark] [dark]
+	
 	![Solarize Light] [light]
+	![Solarize Dark] [dark]
 
 * 	Humane (modified): This theme was originally made for Xcode 4 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
 
