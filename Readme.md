@@ -11,7 +11,7 @@ The themes
 	![Solarize Light] [light]
 	![Solarize Dark] [dark]
 
-* 	Humane (modified): This theme was originally made for Xcode 4 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
+* 	Humane (modified): This theme was originally made for Xcode 3 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
 
 	![Humane (Modified)] [humane_image]
 
