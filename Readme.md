@@ -10,7 +10,7 @@ The themes
 
 *	EGOv2: Awesome theme from [enormego developers].
 
-	[!EGOv2] [egov2_image] 
+	![EGOv2] [egov2_image] 
 
 *	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage].
 
