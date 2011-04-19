@@ -1,10 +1,16 @@
 Xcode 4 Themes
 ==============
 
-This repository contains 3 themes I've found useful when working with Xcode 4, in addition to a Ruby script I've discovered to help convert Xcode 3 themes into the format required by Xcode 4.
+This repository contains some themes I've found useful when working with Xcode 4, in addition to a Ruby script I've discovered to help convert Xcode 3 themes into the format required by Xcode 4.
+
+This repository started as a fork from [jbrennan]'s.
 
 The themes
 ----------
+
+*	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage].
+
+	![Spacedust] [spacedust_image]
 
 * 	Solarized Light & Dark: Both themes are based off the amazing work for the original [Solarized theme] [solar]. Github user [varikin] [] took the Solarized palette and made the [Solarize Dark theme] [varikin] for Xcode 4. I forked his repository and added the Solarize Light theme as well. I'm including both in this repository, but both have been pushed back upstream to his repo.
 	
@@ -41,3 +47,6 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [dark]: http://farm6.static.flickr.com/5062/5592270855_1b26fb726e_o.png  "Solarize Dark"
    [light]: http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png  "Solarize Light"
    [humane_image]: http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png  "Humane (Modified)"
+   [spacedust_image]: http://simplyhacking.com/images/posts/spacedust-xcode-theme.png "Spacedust"
+   [his webpage]: https://gist.github.com/527103
+   [jbrennan]: https://github.com/jbrennan/xcode4themes
