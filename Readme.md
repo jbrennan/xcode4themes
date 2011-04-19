@@ -54,5 +54,5 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [spacedust_image]: http://simplyhacking.com/images/posts/spacedust-xcode-theme.png "Spacedust"
    [his webpage]: https://gist.github.com/527103
    [jbrennan]: https://github.com/jbrennan/xcode4themes
-   [egov2_image] http://cl.ly/302O3x1e3U262F2N2Y1e/Screen_shot_2011-02-04_at_12.36.06_PM.png "EGOv2"
-   [enormego developers] http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
+   [egov2_image]: http://cl.ly/302O3x1e3U262F2N2Y1e/Screen_shot_2011-02-04_at_12.36.06_PM.png "EGOv2"
+   [enormego developers]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
