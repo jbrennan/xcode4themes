@@ -1,7 +1,7 @@
 Xcode 4 Themes
 ==============
 
-This repository contains 3 themes I've found useful when working with Xcode 4, in addition to a Ruby script I've discovered to help convert Xcode 3 themes into the format required by Xcode 4.
+This repository contains and handful themes I've found useful when working with Xcode 4, in addition to a Ruby script I've discovered to help convert Xcode 3 themes into the format required by Xcode 4.
 
 The themes
 ----------
@@ -14,6 +14,10 @@ The themes
 * 	Humane (modified): This theme was originally made for Xcode 3 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
 
 	![Humane (Modified)] [humane_image]
+	
+*   ObsidianCode:  A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]:
+
+  ![obsidiancode_image]
 
 
 Installation
@@ -41,3 +45,5 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [dark]: http://farm6.static.flickr.com/5062/5592270855_1b26fb726e_o.png  "Solarize Dark"
    [light]: http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png  "Solarize Light"
    [humane_image]: http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png  "Humane (Modified)"
+   [obsidian xcode 3]
+   [obsidiancode_image]: https://img.skitch.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg "ObsidianCode"
