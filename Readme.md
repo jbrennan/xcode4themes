@@ -17,7 +17,7 @@ The themes
 	
 *   ObsidianCode:  A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]:
 
-  <img src="https://img.skitch.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg" width="648" alt="Obsidian Code" />
+        <img src="https://img.skitch.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg" width="648" alt="Obsidian Code" />
 
 
 Installation
