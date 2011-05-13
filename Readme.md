@@ -17,7 +17,7 @@ The themes
 	
 *   ObsidianCode:  A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]:
 
-        <img src="https://img.skitch.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg" width="648" alt="Obsidian Code" />
+        ![Obsidian] [ob]
 
 
 Installation
@@ -46,3 +46,4 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [light]: http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png  "Solarize Light"
    [humane_image]: http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png  "Humane (Modified)"
    [obsidian_xcode_3]: https://gist.github.com/837656
+   [ob]: https://img.skitch.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg
