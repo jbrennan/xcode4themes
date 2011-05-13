@@ -17,7 +17,7 @@ The themes
 	
 *   ObsidianCode:  A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]:
 
-        ![Obsidian] [ob]
+    ![Obsidian] [ob]
 
 
 Installation
