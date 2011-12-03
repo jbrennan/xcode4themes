@@ -18,6 +18,14 @@ The themes
 *   ObsidianCode:  A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]:
 
     ![Obsidian] [ob]
+    	
+*	EGOv2: A theme from Enormego. An Xcode3 version can be found [here][enormego_xcode_3]:
+	
+	![EGOv2] [egov2]
+
+*	EGOv2 (Darker): The EGOv2 was too bright for me for some colors, so I toned them down.
+
+	![EGOv2 (Darker)] [egov2dark]
 
 
 Installation
@@ -25,7 +33,6 @@ Installation
 
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-    This method will return the photo file in its original dimensions, which could be quite a large file size. Consider instead specifying a desired size with `photo.get.size`.
 
 
 
@@ -49,3 +56,7 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [humane_image]: http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png  "Humane (Modified)"
    [obsidian_xcode_3]: https://gist.github.com/837656
    [ob]: https://img.skitch.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg
+   [enormego_xcode_3]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
+   [egov2]: http://f.cl.ly/items/1p3m2d1B0O3b312E2d3B/Screen%20shot%202011-02-04%20at%2012.36.06%20PM.png
+   [egov2dark]: http://dl.dropbox.com/u/17239712/egov2dark.png
+   
