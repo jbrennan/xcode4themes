@@ -24,6 +24,10 @@ The themes
 * 	Humane (modified): This theme was originally made for Xcode 3 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
 
 	![Humane (Modified)] [humane_image]
+	
+*   ObsidianCode:  A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]:
+
+    ![Obsidian] [ob]
 
 
 Installation
@@ -31,6 +35,8 @@ Installation
 
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    This method will return the photo file in its original dimensions, which could be quite a large file size. Consider instead specifying a desired size with `photo.get.size`.
+
 
 
 Converting Xcode 3 themes
