@@ -8,10 +8,6 @@ This repository started as a fork from [jbrennan]'s.
 The themes
 ----------
 
-*	EGOv2: Awesome theme from [enormego developers].
-
-	![EGOv2] [egov2_image] 
-
 *	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage].
 
 	![Spacedust] [spacedust_image]
@@ -44,8 +40,6 @@ Installation
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
-
-
 Converting Xcode 3 themes
 -----------------
 The Ruby script (which is public domain) was found [here] [script] and is being included for convenience. To use it, do the following:
@@ -74,4 +68,3 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [enormego_xcode_3]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
    [egov2]: http://f.cl.ly/items/1p3m2d1B0O3b312E2d3B/Screen%20shot%202011-02-04%20at%2012.36.06%20PM.png
    [egov2dark]: http://dl.dropbox.com/u/17239712/egov2dark.png
-   
