@@ -25,8 +25,6 @@ Installation
 
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-    This method will return the photo file in its original dimensions, which could be quite a large file size. Consider instead specifying a desired size with `photo.get.size`.
-
 
 
 Converting Xcode 3 themes
