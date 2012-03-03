@@ -37,6 +37,10 @@ The themes
 
    ![Morrowind] [morrowind]
 
+*  Tomorrow Theme: A Pastel Coloured Editor Theme. Found [here][tomorrowurl]
+
+   ![Tomorrow] [tomorrow]
+
 *  Twilight: Port from Textmate's Twilight theme. Found [here][twilighturl]
 
    ![Twilight] [twilight]
@@ -79,4 +83,6 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [nate_stedman]: http://www.natestedman.com/post/morrowind-for-textmate-xcode/
    [morrowind]: http://s3.amazonaws.com/ns_pixels/blag/morrowind.png
    [twilighturl]: http://blog.cylence.com/2011/01/27/textmates-twilight-theme-for-xcode/
-   [twilight]: http://f.cl.ly/items/010t080U2y1D1j1O3S1G/Screen%20shot%202011-01-27%20at%201.47.28%20PM.png
+   [twilight]: htqtp://f.cl.ly/items/010t080U2y1D1j1O3S1G/Screen%20shot%202011-01-27%20at%201.47.28%20PM.png
+   [tomorrowurl]: https://github.com/ChrisKempson/Tomorrow-Theme
+   [tomorrow]: https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Night.png
