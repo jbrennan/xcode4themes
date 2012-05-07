@@ -49,6 +49,10 @@ The themes
    
    ![XCasts][xCasts]
 
+*  ObjectiveSheep: Works especially well if combined with some good Jazz through your headphones… something like Miles Davis’s “Kind of Blue” for example :-). Found [here][objectiveSheepurl]
+
+   ![ObjectiveSheep] [objectiveSheep]
+
 
 Installation
 ------------
@@ -92,3 +96,5 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [tomorrow]: https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Night.png
    [xCastsurl]: https://github.com/bmeurer/XCasts-color-theme-for-Xcode-4
    [xCasts]: http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
+   [objectiveSheepurl]: http://objectivesheep.com/blog/xcode4_color_theme
+   [objectiveSheep]: https://objectivesheep.s3.amazonaws.com/blog/xcode_color_theme/objectivesheepColorTheme.png
