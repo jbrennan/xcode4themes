@@ -8,7 +8,7 @@ This repository started as a fork from [jbrennan]'s.
 The themes
 ----------
 
-*	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage].
+*	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage][spacedust].
 
 	![Spacedust] [spacedust_image]
 
@@ -79,7 +79,7 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [light]: http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png  "Solarize Light"
    [humane_image]: http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png  "Humane (Modified)"
    [spacedust_image]: http://simplyhacking.com/images/posts/spacedust-xcode-theme.png "Spacedust"
-   [his webpage]: https://gist.github.com/527103
+   [spacedust]: https://gist.github.com/527103
    [jbrennan]: https://github.com/jbrennan/xcode4themes
    [egov2_image]: https://lh4.googleusercontent.com/_Sv4FIWD7bb0/Ta2S0MPGvdI/AAAAAAAABjg/AGzN0U8UBjI/s576/evog2.jpg "EGOv2"
    [enormego developers]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
