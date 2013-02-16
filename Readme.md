@@ -36,7 +36,7 @@ The themes
 
   ![GlitterBomb]
 
-* Humane: This theme was originally made for Xcode 3 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
+* Humane: This theme was originally made for Xcode 3 by Damien Guard. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
 
   ![Humane]
 
@@ -152,17 +152,16 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
   [TomorrowNight]: http://s11.postimage.org/8sre8wclf/Tomorrow_Night.png
   [Twilight]: http://s11.postimage.org/ei7mt7irn/Twilight.png
 
-   [script]: http://digitalflapjack.com/blog/2011/jan/24/xcodedpthemes/
-   [humane]: http://damieng.com/blog/2008/02/08/humane-theme-for-textmate-and-xcode
-   [solar]: http://ethanschoonover.com/solarized
-   [varikin]: https://github.com/varikin/solarized/tree/master/xcode4-colors-solarized
-   [jbrennan]: https://github.com/jbrennan/xcode4themes
-   [enormego developers]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
-   [obsidian_xcode_3]: https://gist.github.com/837656
-   [enormego_xcode_3]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
-   [nate_stedman]: http://www.natestedman.com/post/morrowind-for-textmate-xcode/
-   [twilighturl]: http://blog.cylence.com/2011/01/27/textmates-twilight-theme-for-xcode/
-   [tomorrowurl]: https://github.com/ChrisKempson/Tomorrow-Theme
-   [xCastsurl]: https://github.com/bmeurer/XCasts-color-theme-for-Xcode-4
-   [xCasts]: http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
-   [objectiveSheepurl]: http://objectivesheep.com/blog/xcode4_color_theme
+  [script]: http://digitalflapjack.com/blog/2011/jan/24/xcodedpthemes/
+  [solar]: http://ethanschoonover.com/solarized
+  [varikin]: https://github.com/varikin/solarized/tree/master/xcode4-colors-solarized
+  [jbrennan]: https://github.com/jbrennan/xcode4themes
+  [enormego developers]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
+  [obsidian_xcode_3]: https://gist.github.com/837656
+  [enormego_xcode_3]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
+  [nate_stedman]: http://www.natestedman.com/post/morrowind-for-textmate-xcode/
+  [twilighturl]: http://blog.cylence.com/2011/01/27/textmates-twilight-theme-for-xcode/
+  [tomorrowurl]: https://github.com/ChrisKempson/Tomorrow-Theme
+  [xCastsurl]: https://github.com/bmeurer/XCasts-color-theme-for-Xcode-4
+  [xCasts]: http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
+  [objectiveSheepurl]: http://objectivesheep.com/blog/xcode4_color_theme
