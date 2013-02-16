@@ -3,56 +3,112 @@ Xcode 4 Themes
 
 This repository contains some themes I've found useful when working with Xcode 4, in addition to a Ruby script I've discovered to help convert Xcode 3 themes into the format required by Xcode 4.
 
-This repository started as a fork from [jbrennan]'s.
+These themes were not created by me. I found them all over the net.
 
 The themes
 ----------
 
-*	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage][spacedust].
+* Blackboard
 
-	![Spacedust] [spacedust_image]
+  ![Blackboard]
 
-* 	Solarized Light & Dark: Both themes are based off the amazing work for the original [Solarized theme] [solar]. Github user [varikin] [] took the Solarized palette and made the [Solarize Dark theme] [varikin] for Xcode 4. I forked his repository and added the Solarize Light theme as well. I'm including both in this repository, but both have been pushed back upstream to his repo.
-	
-	![Solarize Light] [light]
-	![Solarize Dark] [dark]
+* Coal Graal
 
-* 	Humane (modified): This theme was originally made for Xcode 3 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
+  ![CoalGraal]
 
-	![Humane (Modified)] [humane_image]
-	
-*   ObsidianCode:  A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]:
+* Dusk
+  
+  ![Dusk]
 
-    ![Obsidian] [ob]
-    	
-*	EGOv2: A theme from Enormego. An Xcode3 version can be found [here][enormego_xcode_3]:
-	
-	![EGOv2] [egov2]
+* Dusk v2
 
-*	EGOv2 (Darker): The EGOv2 was too bright for me for some colors, so I toned them down.
+  ![Duskv2]
 
-	![EGOv2 (Darker)] [egov2dark]
+* EGO v2: A theme from Enormego. An Xcode3 version can be found [here][enormego_xcode_3]:
 
-*  Morrowind: Great theme based on the Tango palette. By [Nate Stedman][nate_stedman]
+  ![EGOv2]
 
-   ![Morrowind] [morrowind]
+* EGO v2 (darker): The EGOv2 was too bright for me for some colors, so I toned them down.
+
+  ![EGOv2Darker]
+
+* GlitterBomb
+
+  ![GlitterBomb]
+
+* Humane: This theme was originally made for Xcode 3 by [Damien Guard] [humane]. I've made some modifications to it (including a switch to Menlo 12 pt. instead of Panic Sans 11 pt., though the two typefaces are nearly identical).
+
+  ![Humane]
+
+* Kellys
+
+  ![Kellys]
+
+* Midnight
+
+  ![Midnight]
+
+* Monokai
+
+  ![Monokai]
+
+* Moodnight
+
+  ![Moodnight]
+
+* Morrowind:  Great theme based on the Tango palette. By [Nate Stedman][nate_stedman]
+
+  ![Morrowind]
+
+* Night
+
+  ![Night]
+
+* Objective Sheep: Works especially well if combined with some good Jazz through your headphones… something like Miles Davis’s “Kind of Blue” for example :-). Found [here][objectiveSheepurl]
+
+  ![ObjectiveSheep]
+
+* Obsidian Code: A theme made by Ben Scheirman.  An Xcode 3 version can be found [here][obsidian_xcode_3]
+
+  ![ObsidianCode]
+
+* Pastel - Menlo
+
+  ![PastelMenlo]
+
+* Resesif
+
+  ![Resesif]
+
+* Scratch Art
+
+  ![ScratchArt]
+
+* Sidewalk Chalk
+
+  ![SidewalkChalk]
+
+* Solarized Dark and Light: Both themes are based off the amazing work for the original [Solarized theme] [solar]. Github user [varikin] [] took the Solarized palette and made the [Solarize Dark theme] [varikin] for Xcode 4. I forked his repository and added the Solarize Light theme as well. I'm including both in this repository, but both have been pushed back upstream to his repo.
+
+  ![SolarizedDark]
+
+  ![SolarizedLight]
+
+*   Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage][spacedust].
+
+  ![Spacedust]
 
 *  Tomorrow Theme: A Pastel Coloured Editor Theme. Found [here][tomorrowurl]
 
-   ![Tomorrow] [tomorrow]
+  ![TomorrowNight]
 
 *  Twilight: Port from Textmate's Twilight theme. Found [here][twilighturl]
 
-   ![Twilight] [twilight]
+  ![Twilight]
 
 *  XCasts: a dark theme loosely based on [Ryan Bates](http://railscasts.com/)' excellent [Railscasts theme for Textmate](http://railscasts.com/about). Found [here][xCastsurl]
    
-   ![XCasts][xCasts]
-
-*  ObjectiveSheep: Works especially well if combined with some good Jazz through your headphones… something like Miles Davis’s “Kind of Blue” for example :-). Found [here][objectiveSheepurl]
-
-   ![ObjectiveSheep] [objectiveSheep]
-
+  ![XCasts]
 
 Installation
 ------------
@@ -70,6 +126,31 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
 4. As with installing the other themes, simply copy the converted theme to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`.
 5. Restart Xcode 4.
 
+  [Blackboard]: http://s11.postimage.org/n1htzhccj/Blackboard.png
+  [CoalGraal]: http://s11.postimage.org/m0hlacvcz/Coal_Graal.png
+  [Dusk]: http://s11.postimage.org/cihuab9oj/Dusk.png
+  [Duskv2]: http://s11.postimage.org/53sihxnsz/Duskv2.png
+  [EGOv2]: http://s11.postimage.org/oa5pl44ar/EGOv2.png
+  [EGOv2Darker]: http://s11.postimage.org/mwe2pt51f/EGOv2_Darker.png
+  [GlitterBomb]: http://s11.postimage.org/dpvs2izsz/Glitter_Bomb.png
+  [Humane]: http://s11.postimage.org/vh7egzf7n/Humane.png
+  [Kellys]: http://s11.postimage.org/vihcaeh1f/Kellys.png
+  [Midnight]: http://s11.postimage.org/bcifp9arn/Midnight.png
+  [Monokai]: http://s11.postimage.org/sfl7krrgj/Monokai.png
+  [Moodnight]: http://s11.postimage.org/hu1c8rl4z/Moodnight.png
+  [Morrowind]: http://s11.postimage.org/7y0994fcz/Morrowind.png
+  [Night]: http://s11.postimage.org/mihc3yabn/Night.png
+  [ObjectiveSheep]: http://s11.postimage.org/45gqtdzur/Objective_Sheep.png
+  [ObsidianCode]: http://s11.postimage.org/jgqjtzx6r/Obsidian_Code.png
+  [PastelMenlo]: http://s11.postimage.org/gbajhj3yb/Pastel_Menlo.png
+  [Resesif]: http://s11.postimage.org/y3w3pel6r/Resesif.png
+  [ScratcArt]: http://s11.postimage.org/6htc4q1tv/Scratch_Art.png
+  [SidewalkChalk]: http://s11.postimage.org/i879m3umb/Sidewalk_Chalk.png
+  [SolarizedDark]: http://s11.postimage.org/bj0q639ab/Solarized_Dark.png
+  [SolarizedLight]: http://s11.postimage.org/bkanzib43/Solarized_Light.png
+  [Spacedust]: http://s11.postimage.org/7p79wxryb/Spacedust.png
+  [TomorrowNight]: http://s11.postimage.org/8sre8wclf/Tomorrow_Night.png
+  [Twilight]: http://s11.postimage.org/ei7mt7irn/Twilight.png
 
    [script]: http://digitalflapjack.com/blog/2011/jan/24/xcodedpthemes/
    [humane]: http://damieng.com/blog/2008/02/08/humane-theme-for-textmate-and-xcode
