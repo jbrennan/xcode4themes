@@ -10,7 +10,7 @@ Xcode Themes
   ![CoalGraal]
 
 * Dusk
-  
+
   ![Dusk]
 
 * Dusk v2
@@ -87,6 +87,10 @@ Xcode Themes
 
   ![SolarizedLight]
 
+*  Space Gray: A Hyperminimal Theme. Found [here][spacegrayurl]
+
+  ![SpaceGray]
+
 *   Spacedust: This amazing theme was created by Mikael Hallendal (m5h).
 
   ![Spacedust]
@@ -100,7 +104,7 @@ Xcode Themes
   ![Twilight]
 
 *  XCasts: a dark theme loosely based on [Ryan Bates](http://railscasts.com/)' excellent [Railscasts theme for Textmate](http://railscasts.com/about). Found [here][xCastsurl]
-   
+
   ![XCasts]
 
 Installation
@@ -135,6 +139,7 @@ Installation
   [Spacedust]: http://s11.postimage.org/7p79wxryb/Spacedust.png
   [TomorrowNight]: http://s11.postimage.org/8sre8wclf/Tomorrow_Night.png
   [Twilight]: http://s11.postimage.org/ei7mt7irn/Twilight.png
+  [SpaceGray]: https://github.com/zdne/spacegray-xcode/raw/master/screenshots/space-gray-screen.png
 
   [script]: http://digitalflapjack.com/blog/2011/jan/24/xcodedpthemes/
   [solar]: http://ethanschoonover.com/solarized
@@ -149,3 +154,4 @@ Installation
   [xCastsurl]: https://github.com/bmeurer/XCasts-color-theme-for-Xcode-4
   [xCasts]: http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
   [objectiveSheepurl]: http://objectivesheep.com/blog/xcode4_color_theme
+  [spacegrayurl]: https://github.com/zdne/spacegray-xcode
