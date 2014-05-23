@@ -41,6 +41,10 @@ Xcode Themes
 
   ![Midnight]
 
+* Monoguy: Monokai-hacked theme by [Mazyod](https://github.com/Mazyod).
+
+  ![Monoguy]
+
 * Monokai
 
   ![Monokai]
@@ -124,6 +128,7 @@ Installation
   [Humane]: http://s11.postimage.org/vh7egzf7n/Humane.png
   [Kellys]: http://s11.postimage.org/vihcaeh1f/Kellys.png
   [Midnight]: http://s11.postimage.org/bcifp9arn/Midnight.png
+  [Monoguy]: http://mazyod.com/images/xcode-theme-preview.png
   [Monokai]: http://s11.postimage.org/sfl7krrgj/Monokai.png
   [Moodnight]: http://s11.postimage.org/hu1c8rl4z/Moodnight.png
   [Morrowind]: http://s11.postimage.org/7y0994fcz/Morrowind.png
