@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!--
+	Yo color theme.
+
+	This theme uses (but does not require) the Montserrat font, which can
+	be downloaded from Google Fonts.
+
+	THIS WORK IS LICENSED UNDER THE FREE DO WHAT THE FUCK YOU WANT TO PUBLIC 
+	LICENSE, VERSION 2, AS PUBLISHED BY SAM HOCEVAR ON http://www.wtfpl.net .
+
+	THIS WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THIS WORK OR THE USE OR OTHER DEALINGS IN
+	THIS WORK.
+-->
+
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>Montserrat-Regular - 11.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>Montserrat-Regular - 11.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>Montserrat-Regular - 11.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>Montserrat-Regular - 11.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>Montserrat-Regular - 11.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.519738 0.255689 0.646146 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.654656 0.792518 0.999198 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.705792 0.8 0.544 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.532143 0.25046 0.655044 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.654656 0.792518 0.999198 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.character</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.number</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.string</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.url</key>
+		<string>1 1 1 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.character</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.number</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.string</key>
+		<string>Montserrat-Regular - 11.0</string>
+		<key>xcode.syntax.url</key>
+		<string>Montserrat-Regular - 11.0</string>
+	</dict>
+</dict>
+</plist>

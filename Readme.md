@@ -111,6 +111,10 @@ Xcode Themes
 
   ![XCasts]
 
+* Yo: a color theme that is based on [Yo](http://justyo.co/).
+
+  ![Yo]
+
 Installation
 ------------
 
@@ -160,3 +164,5 @@ Installation
   [xCasts]: http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
   [objectiveSheepurl]: http://objectivesheep.com/blog/xcode4_color_theme
   [spacegrayurl]: https://github.com/zdne/spacegray-xcode
+  [Yo]: http://s22.postimg.org/dbtwkc0ip/Yo_color_theme.png
+
