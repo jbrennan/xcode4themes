@@ -142,8 +142,18 @@ Xcode Themes
 Installation
 ------------
 
-    mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-    cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+### Using the installation script
+
+    $ git clone https://github.com/hdoria/xcode-themes.git
+    $ cd xcode-themes
+    $ ./install.sh
+
+### Alternative way
+
+    $ git clone https://github.com/hdoria/xcode-themes.git
+    $ cd xcode-themes
+    $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    $ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 
   [Blackboard]: http://s11.postimage.org/n1htzhccj/Blackboard.png
