@@ -9,6 +9,10 @@ Xcode Themes
 
   ![CoalGraal]
 
+* Cocoa Frooties:  A theme made by [Michael Mangold][michael_mangold]
+
+  ![CocoaFrooties]
+
 * Dusk
 
   ![Dusk]
@@ -25,6 +29,10 @@ Xcode Themes
 
   ![EGOv2Darker]
 
+* Foggy Bottoms:  A theme made by [Michael Mangold][michael_mangold]
+
+  ![FoggyBottoms]
+
 * GlitterBomb
 
   ![GlitterBomb]
@@ -36,6 +44,10 @@ Xcode Themes
 * Kellys
 
   ![Kellys]
+
+* Mangold:  A theme made by [Michael Mangold][michael_mangold]
+
+  ![Mangold]
 
 * Midnight
 
@@ -73,9 +85,21 @@ Xcode Themes
 
   ![PastelMenlo]
 
+* Rearden Steel:  A theme made by [Michael Mangold][michael_mangold]
+
+  ![ReardenSteel]
+
+* Raspberry Sorbet:  A theme made by [Michael Mangold][michael_mangold]
+
+  ![RaspberrySorbet]
+
 * Resesif
 
   ![Resesif]
+
+* Salander:  A theme made by [Michael Mangold][michael_mangold]
+
+  ![Salander]
 
 * Scratch Art
 
@@ -124,13 +148,16 @@ Installation
 
   [Blackboard]: http://s11.postimage.org/n1htzhccj/Blackboard.png
   [CoalGraal]: http://s11.postimage.org/m0hlacvcz/Coal_Graal.png
+  [CocoaFrooties]: http://michaelmangold.com/wp-content/uploads/2013/03/cocoafrooties2.png
   [Dusk]: http://s11.postimage.org/cihuab9oj/Dusk.png
   [Duskv2]: http://s11.postimage.org/53sihxnsz/Duskv2.png
   [EGOv2]: http://s11.postimage.org/oa5pl44ar/EGOv2.png
+  [FoggyBottoms]: http://michaelmangold.com/wp-content/uploads/2013/03/foggybottoms2.png
   [EGOv2Darker]: http://s11.postimage.org/mwe2pt51f/EGOv2_Darker.png
   [GlitterBomb]: http://s11.postimage.org/dpvs2izsz/Glitter_Bomb.png
   [Humane]: http://s11.postimage.org/vh7egzf7n/Humane.png
   [Kellys]: http://s11.postimage.org/vihcaeh1f/Kellys.png
+  [Mangold]: http://michaelmangold.com/wp-content/uploads/2013/03/mangold3.png
   [Midnight]: http://s11.postimage.org/bcifp9arn/Midnight.png
   [Monoguy]: http://mazyod.com/images/xcode-theme-preview.png
   [Monokai]: http://s11.postimage.org/sfl7krrgj/Monokai.png
@@ -140,7 +167,10 @@ Installation
   [ObjectiveSheep]: http://s11.postimage.org/45gqtdzur/Objective_Sheep.png
   [ObsidianCode]: http://s11.postimage.org/jgqjtzx6r/Obsidian_Code.png
   [PastelMenlo]: http://s11.postimage.org/gbajhj3yb/Pastel_Menlo.png
+  [RaspberrySorbet]: http://michaelmangold.com/wp-content/uploads/2013/03/raspberrysorbet1.png
+  [ReardenSteel]: http://michaelmangold.com/wp-content/uploads/2013/04/reardensteel2.png
   [Resesif]: http://s11.postimage.org/y3w3pel6r/Resesif.png
+  [Salander]:  http://michaelmangold.com/wp-content/uploads/2013/03/salander2.png
   [ScratchArt]: http://s11.postimage.org/6htc4q1tv/Scratch_Art.png
   [SidewalkChalk]: http://s11.postimage.org/i879m3umb/Sidewalk_Chalk.png
   [SolarizedDark]: http://s11.postimage.org/bj0q639ab/Solarized_Dark.png
@@ -149,6 +179,7 @@ Installation
   [TomorrowNight]: http://s11.postimage.org/8sre8wclf/Tomorrow_Night.png
   [Twilight]: http://s11.postimage.org/ei7mt7irn/Twilight.png
   [SpaceGray]: https://github.com/zdne/spacegray-xcode/raw/master/screenshots/space-gray-screen.png
+  [Wentworth]: http://michaelmangold.com/wp-content/uploads/2013/03/wentworth2.png
 
   [script]: http://digitalflapjack.com/blog/2011/jan/24/xcodedpthemes/
   [solar]: http://ethanschoonover.com/solarized
@@ -157,6 +188,7 @@ Installation
   [enormego developers]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
   [obsidian_xcode_3]: https://gist.github.com/837656
   [enormego_xcode_3]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
+  [michael_mangold]: http://michaelmangold.com/xcode-themes/
   [nate_stedman]: http://www.natestedman.com/post/morrowind-for-textmate-xcode/
   [twilighturl]: http://blog.cylence.com/2011/01/27/textmates-twilight-theme-for-xcode/
   [tomorrowurl]: https://github.com/ChrisKempson/Tomorrow-Theme
@@ -165,4 +197,3 @@ Installation
   [objectiveSheepurl]: http://objectivesheep.com/blog/xcode4_color_theme
   [spacegrayurl]: https://github.com/zdne/spacegray-xcode
   [Yo]: http://s22.postimg.org/dbtwkc0ip/Yo_color_theme.png
-
