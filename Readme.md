@@ -146,7 +146,7 @@ Installation
 
     $ git clone https://github.com/hdoria/xcode-themes.git
     $ cd xcode-themes
-    $ ./install.sh
+    $ ./install.sh # And then restart Xcode
 
 ### Alternative way
 
