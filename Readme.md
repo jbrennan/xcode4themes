@@ -129,7 +129,7 @@ Xcode Themes
   
 *  Treasurechest: A golden-toned, highly expressive theme for Xcode with semantic clearness in mind by [BenediktReichert](https://github.com/benediktreichert)
 
-![Treasurechest](https://github.com/benediktreichert/treasurechest/blob/screenshots/screen_6.png)
+  ![Treasurechest]
 
 *  Twilight: Port from Textmate's Twilight theme. Found [here][twilighturl]
 
@@ -191,6 +191,7 @@ Installation
   [SolarizedLight]: http://s11.postimage.org/bkanzib43/Solarized_Light.png
   [Spacedust]: http://s11.postimage.org/7p79wxryb/Spacedust.png
   [TomorrowNight]: http://s11.postimage.org/8sre8wclf/Tomorrow_Night.png
+  [Treasurechest]: https://github.com/benediktreichert/treasurechest/blob/screenshots/screen_6.png
   [Twilight]: http://s11.postimage.org/ei7mt7irn/Twilight.png
   [SpaceGray]: https://github.com/zdne/spacegray-xcode/raw/master/screenshots/space-gray-screen.png
   [Wentworth]: http://michaelmangold.com/wp-content/uploads/2013/03/wentworth2.png
