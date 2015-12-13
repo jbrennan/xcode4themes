@@ -126,6 +126,10 @@ Xcode Themes
 *  Tomorrow Theme: A Pastel Coloured Editor Theme. Found [here][tomorrowurl]
 
   ![TomorrowNight]
+  
+*  Treasurechest: A golden-toned, highly expressive theme for Xcode with semantic clearness in mind by [BenediktReichert](https://github.com/benediktreichert)
+
+![Treasurechest](https://github.com/benediktreichert/treasurechest/blob/screenshots/screen_6.png)
 
 *  Twilight: Port from Textmate's Twilight theme. Found [here][twilighturl]
 
