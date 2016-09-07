@@ -160,7 +160,7 @@ Installation
 	$ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 ### ThemeInstaller app
-Find and install ThemeInstaller[23] app from the Mac App Store. Open them you want to install and it's done. Themes are visible after Xcode is restarted.
+Find and install [ThemeInstaller][23] app from the Mac App Store. Open them you want to install and it's done. Themes are visible after Xcode is restarted.
 
 [1]:	http://michaelmangold.com/xcode-themes/
 [2]:	http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
